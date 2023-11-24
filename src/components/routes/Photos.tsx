@@ -1,1 +1,10 @@
-export {}
+import {FC} from "react";
+
+export const Photos: FC = () => {
+
+    return (
+        <>Photos</>
+    );
+}
+
+export default Photos
